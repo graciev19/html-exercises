@@ -6,7 +6,7 @@ Make the page about your favorite things! Don't worry about images yet, unless y
 
 ## Project Folder Setup
 
-Within the root of this folder, `2-fave-things`, create the following within VSC like we practiced during class:
+Within the root of this folder, `2-fave-things`, create the following within VS Code like we practiced during class:
 
 - A new folder with your lastname
 - Inside this folder, create a new `index.html` file.
