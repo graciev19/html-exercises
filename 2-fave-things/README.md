@@ -53,6 +53,7 @@ Practice wrapping inline text in your page by using the following `INLINE` eleme
 ## Tips on Versioning, Indentation, and Syntax
 
 - Make sure your default spacing is set at 2
+- Use your browser's inspection tool! See if it works, before you commit and push your work.
 - Work on one part of your new page at a time. When you're done with that part, or need to stop working on it, commit your changes with a meaningful comment, and push them to the remote repo. This also means that your works is backed-up remotely too!
 - Working on one part of a page at a time ensures that you spot
   - Appropriate opening and closing tags 
