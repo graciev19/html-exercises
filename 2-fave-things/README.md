@@ -33,7 +33,7 @@ We'll be adding *resources*, such as `.css` files later this semester, so don't 
 
 Practice structuring your page with some combination of nested `BLOCK` elements. Consider how to implement the following:
 
-- `header`, `article`, `section`, `aside`, `footer`
+- `header`, `main`, `article`, `section`, `aside`, `footer`
 - Meaningful heading tags at appropriate levels
 - Common content block elements: 
   - paragraphs `p`
