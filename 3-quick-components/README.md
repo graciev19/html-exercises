@@ -9,7 +9,7 @@ You will start this exercise on your own, and we will add to it within class.
 - Keep practicing default "flow" of HTML elements
 - Practice grouping and nesting elements to produce semantically meaningful components on a page
 
-## Logistics
+## Exercise Folder Setup
 
 - Create `card.html` within **your** folder. For me, this looks like the following:
      - `3-quick-components/lindgren/cards.html`
