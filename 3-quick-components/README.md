@@ -16,13 +16,14 @@ You will start this exercise on your own, and we will add to it within class.
 
 ## Directions
 
-Before your start this exercise, watch this [UX Club video](https://www.youtube.com/watch?v=ykHClgOUUj8&ab_channel=UXClub.com) about wireframes, so you can know how to interpret my wireframe below.
-
-Create a page for each of the wireframes below. There's only 1 to complete before class.
-
-Be sure to create a complete HTML page for each one with a `doctype`, `html`, `head`, and `body`.
+1. Before your start this exercise, watch this [UX Club video](https://www.youtube.com/watch?v=ykHClgOUUj8&ab_channel=UXClub.com) about wireframes, so you can know how to interpret my wireframe below.
+2. Create a page for the wireframes below. There's only 1 to complete before class.
+3. Be sure to create a complete HTML page for each one with a `doctype`, `html`, `head`, and `body`.
+4. In addition to textual block elements (headings, paragraphs, and lists), consider how to structure this page with HTML, including the use of sectioning elements, such as `header`, `main`, `section`, `article`, etc.
 
 ### `cards.html`
+
+
 
 <img src="wireframes/cards.png" 
      width="90%"
