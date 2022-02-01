@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Basketball, Dogs, Painting">
+    <meta name="author" content="Gracie Villiard, graciev19@vt.edu">
+    <meta name="subject" content="My Favorite Things">
+    <title>My Favorite Things</title>
+  </head>
+  <body>
+    <header>
+      <h2>Basketball</h2>
+    </header>
+    <p>Watching basketball is without a doubt my favorite pastime. My favorite team in the NBA is the Dallas Mavericks. 
+      They are currently fifth in the Western Conference, but are just a game or two outside of first place. I honestly 
+      have no idea what made me start liking the Mavericks, I'm from a small town in Southwest Virginia. This team just 
+      caught my eye and the rest is history. I want to make a career as a sports writer that covers the NBA. 
+    </p>
+    <header>
+      <h2>Dogs</h2>
+    </header>
+    <p>Dogs never fail to make me smile. I have one dog back in my hometown that I share with my siblings. Her name is Piper
+      and she is a redbone coonhound. She is practically a small pony. I have two dogs with my roommates here in Blacksburg.
+      The first one is a Husky/Border Collie mix and her name is Bear, and the other one is some sort of lab-mix puppy named Abu
+      that was left at my roommate's house back home. Dogs give me a sense of comfort and joy and never make me feel like I am alone. 
+      They each have their own little personalities and I love being able to give them a happy life. 
+   </p>
+   <header>
+     <h3>Painting</h3>
+   </header>
+   <p>I love to paint. It has always been something that has been a fun, stress relieving activity of mine. I like to paint things such
+     as cartoon characters and nature landscapes. There is something so calming about being able to sit down and pour your heart and mind 
+     into a canvas and to be able to produce something that you can call your own. 
+   </p>
+</body>
+</html>
