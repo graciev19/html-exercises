@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><h1>cards.html</h1></header>
+    <main>
+        <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </h2>
+        <section>
+        <article>
+            <h3>Ea, excepturi dolore eos nam sed temporibus repellendus voluptatem commodi blanditiis adipisci eaque, animi tempora? </h3>
+            <p> Error tenetur deserunt quis, aliquid neque vitae illum distinctio doloremque ullam beatae minus, dolor similique culpa voluptatibus iusto asperiores animi labore.</p>
+            <p>
+                <ul>
+                    <li>First point</li>
+                    <li>Second point</li>
+                    <li>Third point</li>
+                </ul>
+            </p>
+        </article>
+    </section>
+    <section>
+        <article>
+    <h3>Another section</h3>
+    <p>Here's an explanation for that.</p>
+    <p>
+        <ul>
+        <li> Hey heres my first point</li>
+        <li> Here's my second point</li>
+        <li> Here's my third, along with an article <a href="www.facebook.com">here</a></li>
+        </ul>
+    </p>
+    </article>
+    </section>
+    <section>
+        <h2>Ducimus, repellat expedita voluptatibus quo maiores esse sed voluptate voluptates fugiat animi at necessitatibus dicta fugit.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+        <p>
+            <ul>
+                <li>First point</li>
+                <li>Second point</li>
+                <li>Third point with an article <a href="https://wcyb.com/news/local/unicoi-county-man-arrested-accused-of-trying-to-stab-deputy">here</a></li>
+            </ul>
+        </p>
+    </section>
+    <section>
+        <h2> this is a line of text before the next two boxes</h2>
+      </section>
+      <section>
+        <article>
+        <h3> Repellat porro, velit magnam quisquam ex distinctio!</h3>
+        <p> Vero corporis maiores iure harum consequuntur cumque iste!</p>
+        <p> 
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit ex aspernatur rem aperiam sunt.
+          <ul>
+            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. <a href="https://www.nba.com/">here</a>
+            </li>
+            <li>
+              Quis aut ipsam inventore pariatur maxime impedit magni modi. Eveniet. <a href= "https://www.twitter/">here</a>
+            </li>
+            <li> Nemo optio quod illo expedita, magni enim ipsum ab a totam illum laboriosam alias rem! <a href= "https://www.instagram/">here</a>
+            </li>
+          </ul>
+        </p>
+        </article>
+      </section>
+      <section>
+        <article>
+        <h3> Lorem ipsum dolor sit amet consectetur adipisicing elit. </h3>
+        <p> Earum sapiente quo veritatis sit aperiam cum incidunt.</p>
+        <ul>
+          <li> >Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          </li>
+          <li> Modi vel ut exercitationem!</li>
+          <li> Enim error sint cum hic, minima voluptas dolore repellat neque eius necessitatibus facere eos pariatur maiores ducimus cupiditate eaque odio expedita minus!</li>
+        </ul>
+        </article>
+      </section>
+</main>
+</body>
+</html>
